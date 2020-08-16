@@ -1,6 +1,6 @@
 #' ---
 #' title: "R scripts can be rendered!"
-#' author: "Jenny Bryan"
+#' author: "GL"
 #' date: "April 1, 2014"
 #' output: github_document
 #' ---
