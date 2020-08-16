@@ -14,7 +14,7 @@ v <- c(1, 2, 3)
 # Check for those less than 2 (TRUE)
 v2 <- ifelse(v < 2, T, F)
 
-# How many Ts and Fs
+# How many Ts and Fs 
 print(v2)
 
 
